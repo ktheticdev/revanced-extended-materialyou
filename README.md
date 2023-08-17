@@ -1,4 +1,4 @@
-#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
+#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses le original author's modules and impersonates ReVanced. This thingy is shady too, btw, so use it on your own behalf. I'm not responsible if your device is bricked or your account data stolen/MIUI suddenly changing to LineageOS/etc.
 
 # ReVanced eXtended
 [![Build Modules](https://github.com/NoName-exe/revanced-extended/actions/workflows/build.yml/badge.svg)](https://github.com/NoName-exe/revanced-extended/actions/workflows/build.yml)
@@ -25,5 +25,5 @@ Get the [latest CI release](https://github.com/NoName-exe/revanced-extended/rele
 [j-hc](https://github.com/j-hc) for [mindetach](https://github.com/j-hc/mindetach-magisk) and the [script on which this is based on](https://github.com/j-hc/revanced-magisk-module).
 
 [inotia00](https://github.com/inotia00) for [revanced-extended patches](https://github.com/inotia00/revanced-patches) and [Vanced MicroG](https://github.com/inotia00/VancedMicroG) and also [mMicroG](https://github.com/inotia00/mMicroG).
-
-[Gnad Gnaoh](https://github.com/gnadgnaoh) for helping me figure some stuff out.
+[YT-Advanced](https://github.com/YT-Advanced) for at least some hope with [ReX-patches](https://github.com/YT-Advanced/ReX-patches).
+[Gnad Gnaoh](https://github.com/gnadgnaoh) for helping le original repo author figure some stuff out.
