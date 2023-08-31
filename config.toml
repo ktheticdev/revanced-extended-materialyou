@@ -10,8 +10,8 @@ rv-brand = "ReVanced eXtended"
 
 [YouTube]
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
-excluded-patches = ""                                                 # whitespace seperated list of patches to exclude (multiline strings are not supported)
-included-patches = ""                                                 # whitespace seperated list of patches to include
+excluded-patches = "custom-branding-icon-revancify-blue"                                                 # whitespace seperated list of patches to exclude (multiline strings are not supported)
+included-patches = "custom-branding-icon-mmt materialyou"                                                 # whitespace seperated list of patches to include
 version = "auto"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = false                                             # excludes all patches by default
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
@@ -20,8 +20,8 @@ module-prop-name = "yt-rvx"
 [Music]
 build-mode = "both"
 app-name = "YouTube-Music"
-excluded-patches = ""
-included-patches = ""
+excluded-patches = "custom-branding-icon-revancify-blue"
+included-patches = "custom-branding-icon-mmt materialyou"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 module-prop-name = "ytm-rvx"
