@@ -11,7 +11,7 @@ rv-brand = "ReVanced eXtended"
 [YouTube]
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
 excluded-patches = "custom-branding-icon-revancify-blue"                                                 # whitespace seperated list of patches to exclude (multiline strings are not supported)
-included-patches = "materialyou custon-branding-icon-mmt"                                                 # whitespace seperated list of patches to include
+included-patches = "materialyou custom-branding-icon-mmt"                                                 # whitespace seperated list of patches to include
 version = "auto"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = false                                             # excludes all patches by default
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
