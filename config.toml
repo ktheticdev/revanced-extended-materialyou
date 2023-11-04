@@ -12,7 +12,7 @@ rv-brand = "ReVanced eXtended"
 
 [YouTube]
 build-mode = "both"                                                   
-excluded-patches = ""                                                 
+excluded-patches = "'Add splash animation'"                                                 
 included-patches = "'MaterialYou' 'Custom Branding Icon MMT'"                                                 
 version = "auto"                                                      
 exclusive-patches = false                                             
@@ -22,7 +22,7 @@ module-prop-name = "yt-rvx"
 [Music]
 build-mode = "both"
 app-name = "YouTube-Music"
-excluded-patches = ""
+excluded-patches = "'Add splash animation'"
 included-patches = "'Custom Branding Icon MMT'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
