@@ -12,8 +12,8 @@ rv-brand = "ReVanced eXtended"
 
 [YouTube]
 build-mode = "both"                                                   
-excluded-patches = "'Add splash animation'"                                                 
-included-patches = "'MaterialYou' 'Custom branding icon MMT'"                                                 
+excluded-patches = "\'Add splash animation\'"                                                 
+included-patches = "\'MaterialYou\' \'Custom branding icon MMT\'"                                                 
 version = "auto"                                                      
 exclusive-patches = false                                             
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
@@ -22,8 +22,8 @@ module-prop-name = "yt-rvx"
 [Music]
 build-mode = "both"
 app-name = "YouTube-Music"
-excluded-patches = "'Add splash animation'"
-included-patches = "'Custom branding icon MMT'"
+excluded-patches = "\'Add splash animation\'"
+included-patches = "\'Custom branding icon MMT\'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 module-prop-name = "ytm-rvx"
