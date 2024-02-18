@@ -12,7 +12,7 @@ rv-brand = "ReVanced eXtended"
 [YouTube]
 build-mode = "both"                                                   
 excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"                                                 
-included-patches = "'MaterialYou' 'Custom branding icon MMT'"                                                 
+included-patches = "'MaterialYou' 'Custom branding icon YouTube'"                                                 
 version = "auto"                                                      
 exclusive-patches = false                                             
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
