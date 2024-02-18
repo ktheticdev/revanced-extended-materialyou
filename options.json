@@ -12,6 +12,12 @@
         "value": "ytm.rvx.noname.exe"
       }
     ]
+  }, {
+    "patchName" : "Custom branding icon YouTube",
+    "options" : [ {
+      "key" : "AppIcon",
+      "value" : "MMT"
+    } ]
   }
 ]
         
