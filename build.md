@@ -1,6 +1,6 @@
+Music (arm-v7a): 6.40.52  
+Music (arm64-v8a): 6.40.52  
 YouTube: 19.02.39  
-Music (arm64-v8a): 6.39.50  
-Music (arm-v7a): 6.39.50  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) or [mMicroG](https://github.com/inotia00/mMicroG/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [mindetach](https://github.com/j-hc/mindetach-magisk) or [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
