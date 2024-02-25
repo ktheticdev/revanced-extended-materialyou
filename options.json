@@ -18,6 +18,12 @@
       "key" : "AppIcon",
       "value" : "MMT"
     } ]
+  }, {
+    "patchName" : "Custom branding icon YouTube Music",
+    "options" : [ {
+      "key" : "AppIcon",
+      "value" : "MMT"
+    } ]
   }
 ]
         
