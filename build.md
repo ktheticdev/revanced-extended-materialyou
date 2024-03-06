@@ -1,5 +1,3 @@
-Music (arm64-v8a): 6.41.58  
-Music (arm-v7a): 6.41.58  
 YouTube: 19.02.39  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) or [mMicroG](https://github.com/inotia00/mMicroG/releases) to be able to use non-root YouTube or YouTube-Music.  
@@ -14,6 +12,6 @@ Patches: inotia00/revanced-patches-2.220.1.jar
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.220.1)
 
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.145.3.apk  
-Patches: YT-Advanced/revanced-patches-2.220.8.jar  
-[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.8)  
+Integrations: YT-Advanced/revanced-integrations-0.146.0.apk  
+Patches: YT-Advanced/revanced-patches-2.220.9.jar  
+[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.9)  
