@@ -9,5 +9,5 @@ Use [mindetach](https://github.com/j-hc/mindetach-magisk) or [zygisk-detach](htt
 Changelog:  
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
 Integrations: anddea/revanced-integrations-0.147.0.apk  
-Patches: anddea/revanced-patches-2.221.0.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.221.0)  
+Patches: anddea/revanced-patches-2.221.0.2.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.221.0.2)  
