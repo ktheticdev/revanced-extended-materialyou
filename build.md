@@ -1,3 +1,4 @@
+Music (arm-v7a): 6.43.52  
 Music (arm64-v8a): 6.43.52  
 YouTube: 19.07.40  
 
@@ -8,6 +9,6 @@ Use [mindetach](https://github.com/j-hc/mindetach-magisk) or [zygisk-detach](htt
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: anddea/revanced-integrations-0.147.0.apk  
-Patches: anddea/revanced-patches-2.221.0.2.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.221.0.2)  
+Integrations: anddea/revanced-integrations-0.147.2.apk  
+Patches: anddea/revanced-patches-2.221.0.3.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.221.0.3)  
