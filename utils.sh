@@ -42,7 +42,7 @@ abort() {
 }
 
 get_rv_prebuilts() {
-	local integrations_src=$1 patches_src=$2 integrations_ver=$3 patches_ver="v2.223.0-dev.20" cli_src=$5 cli_ver=$6
+	local integrations_src=$1 patches_src=$2 integrations_ver="v0.150.0-dev.4" patches_ver="v2.223.0-dev.20" cli_src=$5 cli_ver=$6
 	local patches_dir=${patches_src%/*}
 	patches_dir=${TEMP_DIR}/${patches_dir,,}-rv
 	local integrations_dir=${integrations_src%/*}
