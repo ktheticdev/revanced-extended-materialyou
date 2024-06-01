@@ -1,5 +1,5 @@
-Music (arm-v7a): 7.02.51  
-Music (arm64-v8a): 7.02.51  
+Music (arm-v7a): 7.03.51  
+Music (arm64-v8a): 7.03.51  
 YouTube: 19.20.34  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
